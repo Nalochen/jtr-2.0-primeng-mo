@@ -1,0 +1,6 @@
+demo/**
+theme-base/**
+themes/**
+!themes/jtr-primeng-mobile.css
+.github/**
+.idea/**

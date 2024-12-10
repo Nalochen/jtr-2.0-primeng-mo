@@ -1,3 +1,5 @@
-themes/jtr/primeng-theme.css
+themes/jtr-primeng-mobile.css
 .DS_STORE
 .vscode
+.idea
+node_modules
